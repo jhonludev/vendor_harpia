@@ -87,6 +87,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/harpia/proprietary/vendor/lib/libchromatix_ov8865_l8865aa0_zsl.so:system/vendor/lib/libchromatix_ov8865_l8865aa0_zsl.so \
     vendor/motorola/harpia/proprietary/vendor/lib/libjpegdhw.so:system/vendor/lib/libjpegdhw.so \
     vendor/motorola/harpia/proprietary/vendor/lib/libjpegehw.so:system/vendor/lib/libjpegehw.so \
+    vendor/motorola/harpia/proprietary/vendor/lib/libuiblur.so:system/vendor/lib/libuiblur.so \
     vendor/motorola/harpia/proprietary/vendor/lib/libmmcamera2_c2d_module.so:system/vendor/lib/libmmcamera2_c2d_module.so \
     vendor/motorola/harpia/proprietary/vendor/lib/libmmcamera2_cpp_module.so:system/vendor/lib/libmmcamera2_cpp_module.so \
     vendor/motorola/harpia/proprietary/vendor/lib/libmmcamera2_frame_algorithm.so:system/vendor/lib/libmmcamera2_frame_algorithm.so \
